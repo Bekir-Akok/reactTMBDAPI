@@ -17,7 +17,7 @@ class App extends React.Component {
 
 
   async componentDidMount(){
-       const response = await Axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_API_KEY}&language=en-US&page=1`)
+       const response = await Axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=8e23c4a2f2f0e07af18c64928437f4d2&language=en-US&page=1`)
        this.setState({movies: response.data.results})
    }
 
