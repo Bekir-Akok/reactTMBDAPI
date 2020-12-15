@@ -1,3 +1,14 @@
+#https://react-tmbdapi.vercel.app/
+
+
+##Neler kullandım/öğrendim ?
+
+Proje API den gelen film bilgilerini yansıtan kendi film listelerinizi oluşturup görüntüleyebileceğiniz bir react projesidir.
+Gerçek api kullanımı ve temel react kavramlarına daha geniş bir bakış.
+
+
+Kaynak:https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
